@@ -73,25 +73,31 @@ async function champions() {
 	return out;
 }
 
+// The game modes of an item, as the wiki names them. A mode the wiki adds later comes out as its own name, upper-cased.
+const MODES = { "classic sr 5v5": "CLASSIC", aram: "ARAM", nb: "NEXUS_BLITZ", ar: "ARENA", mayhem: "ARAM_MAYHEM" };
+
 // Same shape as Meraki's items.json for the fields Nexus reads: `rank` (the wiki's item types), and `removed`, `shop.purchasable`,
-// `requiredChampion` (the game's own list: an item the game no longer lists is removed).
+// `requiredChampion` (the game's own list: an item the game no longer lists is removed). Plus `modes`, the modes it is sold in.
 async function items() {
 	const [wiki, game] = await Promise.all([wikiModule("ItemData"), get(`${CDRAGON}/items.json`, "json")]);
 	const listed = new Map(game.map((item) => [item.id, item]));
-	// An item that turns into another (`=>Muramana`) ranks as the other.
-	const typeOf = (item, depth = 0) => {
-		const [type] = list(item.type);
-		if (!type?.startsWith("=>") || depth > 3) return list(item.type);
-		const target = wiki[type.slice(2)];
-		return target ? typeOf(target, depth + 1) : [];
+	// An item that turns into another (`=>Muramana`) takes the other's type and modes.
+	const field = (item, key, depth = 0) => {
+		const value = item[key];
+		if (typeof value !== "string" || !value.startsWith("=>") || depth > 3) return value;
+		const target = wiki[value.slice(2)];
+		return target && field(target, key, depth + 1);
 	};
 	const out = {};
 	for (const [name, item] of Object.entries(wiki)) {
 		if (!Number.isInteger(item.id) || out[item.id]) continue;
-		const rank = typeOf(item).map(enumOf);
+		const rank = list(field(item, "type")).map(enumOf);
 		if (!rank.length) continue;
 		const live = listed.get(item.id);
-		out[item.id] = { id: item.id, name, rank, removed: !live, requiredChampion: live?.requiredChampion ?? "", shop: { purchasable: live?.inStore ?? false } };
+		const modes = Object.entries(field(item, "modes") ?? {})
+			.filter(([, on]) => on === true)
+			.map(([mode]) => MODES[mode] ?? enumOf(mode));
+		out[item.id] = { id: item.id, name, rank, modes, removed: !live, requiredChampion: live?.requiredChampion ?? "", shop: { purchasable: live?.inStore ?? false } };
 	}
 	return out;
 }

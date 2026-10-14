@@ -5,6 +5,11 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -16,6 +21,11 @@
 		"name": "Faerie Charm",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -29,6 +39,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -40,6 +55,11 @@
 		"name": "Giant's Belt",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -53,6 +73,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -64,6 +89,11 @@
 		"name": "Blasting Wand",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -77,6 +107,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -88,6 +123,11 @@
 		"name": "Ruby Crystal",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -101,6 +141,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -112,6 +157,11 @@
 		"name": "Chain Vest",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -125,6 +175,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -136,6 +191,11 @@
 		"name": "Long Sword",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -149,6 +209,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -160,6 +225,11 @@
 		"name": "B. F. Sword",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -173,6 +243,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -184,6 +259,11 @@
 		"name": "Recurve Bow",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -197,6 +277,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -208,6 +293,11 @@
 		"name": "Vampiric Scepter",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -221,6 +311,10 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -232,6 +326,10 @@
 		"name": "Doran's Blade",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -245,6 +343,10 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -256,6 +358,11 @@
 		"name": "Negatron Cloak",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -269,6 +376,11 @@
 		"rank": [
 			"BASIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -280,6 +392,9 @@
 		"name": "Dark Seal",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -293,6 +408,9 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -304,6 +422,10 @@
 		"name": "Doran's Bow",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -317,6 +439,10 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -329,6 +455,10 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -340,6 +470,10 @@
 		"name": "Mosstomper Seedling",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -355,6 +489,9 @@
 			"SPECIAL",
 			"BOOTS"
 		],
+		"modes": [
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -366,6 +503,10 @@
 		"name": "Doran's Helm",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -379,6 +520,11 @@
 		"rank": [
 			"TURRET"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -390,6 +536,11 @@
 		"name": "Reinforced Armor (Turret Item)",
 		"rank": [
 			"TURRET"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -403,6 +554,11 @@
 		"rank": [
 			"TURRET"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -414,6 +570,11 @@
 		"name": "Base Turret Reinforced Armor (Turret Item)",
 		"rank": [
 			"TURRET"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -427,6 +588,9 @@
 		"rank": [
 			"TURRET"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -438,6 +602,11 @@
 		"name": "Anti-Tower Socks",
 		"rank": [
 			"MINION"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -451,6 +620,11 @@
 		"rank": [
 			"MINION"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -462,6 +636,11 @@
 		"name": "Phreakish Gusto",
 		"rank": [
 			"MINION"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -475,6 +654,11 @@
 		"rank": [
 			"MINION"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -486,6 +670,11 @@
 		"name": "Super Mech Power Field",
 		"rank": [
 			"MINION"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -499,6 +688,10 @@
 		"rank": [
 			"TURRET"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -510,6 +703,9 @@
 		"name": "Crystalline Overgrowth",
 		"rank": [
 			"TURRET"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -523,6 +719,11 @@
 		"rank": [
 			"POTION"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -534,6 +735,11 @@
 		"name": "Total Biscuit of Everlasting Will",
 		"rank": [
 			"DISTRIBUTED"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -547,6 +753,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -558,6 +769,11 @@
 		"name": "The Brutalizer",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -571,6 +787,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -582,6 +803,11 @@
 		"name": "Glowing Mote",
 		"rank": [
 			"BASIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -595,6 +821,11 @@
 		"rank": [
 			"POTION"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -606,6 +837,9 @@
 		"name": "Guardian's Amulet",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -619,6 +853,9 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -630,6 +867,10 @@
 		"name": "Guardian's Horn",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"ARAM",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -645,6 +886,9 @@
 			"TRINKET",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARAM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -656,6 +900,9 @@
 		"name": "Control Ward",
 		"rank": [
 			"CONSUMABLE"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -669,6 +916,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -680,6 +933,11 @@
 		"name": "Elixir of Iron",
 		"rank": [
 			"CONSUMABLE"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -693,6 +951,11 @@
 		"rank": [
 			"CONSUMABLE"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -704,6 +967,11 @@
 		"name": "Elixir of Wrath",
 		"rank": [
 			"CONSUMABLE"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -717,6 +985,10 @@
 		"rank": [
 			"CONSUMABLE"
 		],
+		"modes": [
+			"ARAM",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -728,6 +1000,9 @@
 		"name": "Juice of Power",
 		"rank": [
 			"CONSUMABLE"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -741,6 +1016,9 @@
 		"rank": [
 			"CONSUMABLE"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -752,6 +1030,9 @@
 		"name": "Juice of Haste",
 		"rank": [
 			"CONSUMABLE"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -765,6 +1046,9 @@
 		"rank": [
 			"DISTRIBUTED"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -776,6 +1060,9 @@
 		"name": "Enhanced Lucky Dice",
 		"rank": [
 			"DISTRIBUTED"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -790,6 +1077,11 @@
 			"CONSUMABLE",
 			"DISTRIBUTED"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -802,6 +1094,11 @@
 		"rank": [
 			"CONSUMABLE",
 			"DISTRIBUTED"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -816,6 +1113,11 @@
 			"CONSUMABLE",
 			"DISTRIBUTED"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -828,6 +1130,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -839,6 +1146,11 @@
 		"name": "Shattered Armguard",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -853,6 +1165,11 @@
 			"DISTRIBUTED",
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -864,6 +1181,12 @@
 		"name": "Overlord's Bloodmail",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -877,6 +1200,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -888,6 +1217,11 @@
 		"name": "Blackfire Torch",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -901,6 +1235,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -912,6 +1252,11 @@
 		"name": "Fated Ashes",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -925,6 +1270,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -936,6 +1287,12 @@
 		"name": "Fiendhunter Bolts",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -949,6 +1306,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -960,6 +1323,10 @@
 		"name": "Bastionbreaker",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -973,6 +1340,11 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -984,6 +1356,12 @@
 		"name": "Hexoptics C44",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -997,6 +1375,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1008,6 +1392,12 @@
 		"name": "Protoplasm Harness",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1021,6 +1411,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1032,6 +1428,12 @@
 		"name": "Diadem of Songs",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1045,6 +1447,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1056,6 +1464,12 @@
 		"name": "Manamune",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1069,6 +1483,12 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1080,6 +1500,11 @@
 		"name": "Gluttonous Greaves",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1093,6 +1518,12 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1104,6 +1535,12 @@
 		"name": "Sorcerer's Shoes",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1117,6 +1554,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1128,6 +1570,10 @@
 		"name": "Guardian Angel",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1141,6 +1587,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1152,6 +1604,12 @@
 		"name": "Yun Tal Wildarrows",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1165,6 +1623,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1176,6 +1640,11 @@
 		"name": "Last Whisper",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1189,6 +1658,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1200,6 +1675,12 @@
 		"name": "Seraph's Embrace",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1213,6 +1694,9 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1224,6 +1708,12 @@
 		"name": "Muramana",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1237,6 +1727,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1248,6 +1743,12 @@
 		"name": "Phantom Dancer",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1261,6 +1762,12 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1272,6 +1779,12 @@
 		"name": "Zeke's Convergence",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1285,6 +1798,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1296,6 +1814,12 @@
 		"name": "Sterak's Gage",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1309,6 +1833,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1320,6 +1849,12 @@
 		"name": "Spirit Visage",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1333,6 +1868,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1344,6 +1884,11 @@
 		"name": "Kindlegem",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1357,6 +1902,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1368,6 +1919,11 @@
 		"name": "Tear of the Goddess",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1381,6 +1937,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1392,6 +1954,12 @@
 		"name": "Bloodthirster",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1405,6 +1973,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1416,6 +1990,12 @@
 		"name": "Ravenous Hydra",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1429,6 +2009,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1440,6 +2026,11 @@
 		"name": "Bramble Vest",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1453,6 +2044,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1464,6 +2060,12 @@
 		"name": "Trinity Force",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1477,6 +2079,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1488,6 +2095,11 @@
 		"name": "Warmog's Armor",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1501,6 +2113,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1512,6 +2130,12 @@
 		"name": "Runaan's Hurricane",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1525,6 +2149,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1536,6 +2165,12 @@
 		"name": "Statikk Shiv",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1549,6 +2184,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1560,6 +2201,12 @@
 		"name": "Wit's End",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1573,6 +2220,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1584,6 +2237,12 @@
 		"name": "Stormrazor",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1597,6 +2256,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1608,6 +2273,12 @@
 		"name": "Banshee's Veil",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1621,6 +2292,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1632,6 +2309,11 @@
 		"name": "Fiendish Codex",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1645,6 +2327,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1656,6 +2344,12 @@
 		"name": "Frozen Heart",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1669,6 +2363,12 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1680,6 +2380,10 @@
 		"name": "Guardian's Orb",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"ARAM",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1693,6 +2397,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1704,6 +2413,11 @@
 		"name": "Forbidden Idol",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1717,6 +2431,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1728,6 +2448,12 @@
 		"name": "Rylai's Crystal Scepter",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1741,6 +2467,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1752,6 +2484,12 @@
 		"name": "Winter's Approach",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1765,6 +2503,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1776,6 +2520,11 @@
 		"name": "Executioner's Calling",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1789,6 +2538,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1800,6 +2555,11 @@
 		"name": "Caulfield's Warhammer",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1813,6 +2573,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1824,6 +2589,12 @@
 		"name": "Void Staff",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1837,6 +2608,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1848,6 +2625,12 @@
 		"name": "Mercurial Scimitar",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1861,6 +2644,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1872,6 +2660,12 @@
 		"name": "Youmuu's Ghostblade",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1885,6 +2679,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1896,6 +2696,11 @@
 		"name": "Scout's Slingshot",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1909,6 +2714,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1920,6 +2730,12 @@
 		"name": "Hextech Gunblade",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1933,6 +2749,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1944,6 +2765,12 @@
 		"name": "Hextech Rocketbelt",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1957,6 +2784,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1968,6 +2801,11 @@
 		"name": "Hexdrinker",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -1981,6 +2819,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -1992,6 +2836,12 @@
 		"name": "Zhonya's Hourglass",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2005,6 +2855,12 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2016,6 +2872,12 @@
 		"name": "Spear of Shojin",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2029,6 +2891,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2040,6 +2908,9 @@
 		"name": "Immortal Path",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2053,6 +2924,9 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2064,6 +2938,9 @@
 		"name": "Crimson Lucidity",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2077,6 +2954,9 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2088,6 +2968,9 @@
 		"name": "Chainlaced Crushers",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2101,6 +2984,9 @@
 		"rank": [
 			"BOOTS"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2112,6 +2998,9 @@
 		"name": "Spellslinger's Shoes",
 		"rank": [
 			"BOOTS"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2125,6 +3014,10 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"ARAM",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2136,6 +3029,11 @@
 		"name": "Umbral Glaive",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2149,6 +3047,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2160,6 +3064,10 @@
 		"name": "Guardian's Hammer",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"ARAM",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2173,6 +3081,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2184,6 +3098,11 @@
 		"name": "Spectre's Cowl",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2197,6 +3116,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2208,6 +3133,12 @@
 		"name": "Terminus",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2221,6 +3152,12 @@
 		"rank": [
 			"TRINKET"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "FiddleSticks",
 		"shop": {
@@ -2232,6 +3169,10 @@
 		"name": "Stealth Ward",
 		"rank": [
 			"TRINKET"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2245,6 +3186,9 @@
 		"rank": [
 			"TRINKET"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2256,6 +3200,10 @@
 		"name": "Farsight Alteration",
 		"rank": [
 			"TRINKET"
+		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2269,6 +3217,10 @@
 		"rank": [
 			"TRINKET"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2280,6 +3232,12 @@
 		"name": "Your Cut",
 		"rank": [
 			"DISTRIBUTED"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2293,6 +3251,10 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2305,6 +3267,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2316,6 +3284,12 @@
 		"name": "Essence Reaver",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2330,6 +3304,10 @@
 			"TRINKET",
 			"DISTRIBUTED"
 		],
+		"modes": [
+			"CLASSIC",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2341,6 +3319,12 @@
 		"name": "Black Spear",
 		"rank": [
 			"STARTER"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "Kalista",
@@ -2354,6 +3338,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2365,6 +3355,12 @@
 		"name": "Titanic Hydra",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2378,6 +3374,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2389,6 +3390,11 @@
 		"name": "Lost Chapter",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2402,6 +3408,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2413,6 +3424,12 @@
 		"name": "Edge of Night",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2426,6 +3443,9 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2437,6 +3457,9 @@
 		"name": "Runic Compass",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2450,6 +3473,9 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2461,6 +3487,9 @@
 		"name": "Celestial Opposition",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2474,6 +3503,9 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2485,6 +3517,9 @@
 		"name": "Zaz'Zak's Realmspike",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2498,6 +3533,9 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2509,6 +3547,9 @@
 		"name": "Bloodsong",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2522,6 +3563,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2534,6 +3580,10 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2545,6 +3595,12 @@
 		"name": "Imperial Mandate",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2559,6 +3615,10 @@
 			"LEGENDARY",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2571,6 +3631,9 @@
 		"rank": [
 			"LEGENDARY",
 			"SPECIAL"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2585,6 +3648,9 @@
 			"LEGENDARY",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2598,6 +3664,9 @@
 			"LEGENDARY",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2609,6 +3678,12 @@
 		"name": "Force of Nature",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2622,6 +3697,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2633,6 +3714,12 @@
 		"name": "Cosmic Drive",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2646,6 +3733,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2657,6 +3749,11 @@
 		"name": "Verdant Barrier",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2670,6 +3767,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2681,6 +3784,11 @@
 		"name": "Bandleglass Mirror",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2694,6 +3802,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2705,6 +3819,12 @@
 		"name": "Stormsurge",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2718,6 +3838,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2729,6 +3855,12 @@
 		"name": "Chempunk Chainsword",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2742,6 +3874,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2753,6 +3891,12 @@
 		"name": "Staff of Flowing Water",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2766,6 +3910,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2777,6 +3927,12 @@
 		"name": "Echoes of Helia",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2790,6 +3946,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2801,6 +3963,12 @@
 		"name": "Stridebreaker",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2814,6 +3982,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2825,6 +3999,12 @@
 		"name": "Luden's Echo",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2838,6 +4018,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2849,6 +4035,11 @@
 		"name": "Bami's Cinder",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2862,6 +4053,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2873,6 +4070,12 @@
 		"name": "Hollow Radiance",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2886,6 +4089,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2897,6 +4106,11 @@
 		"name": "Noonquiver",
 		"rank": [
 			"EPIC"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2910,6 +4124,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2921,6 +4141,12 @@
 		"name": "Immortal Shieldbow",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2934,6 +4160,11 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2945,6 +4176,12 @@
 		"name": "The Collector",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2958,6 +4195,11 @@
 		"rank": [
 			"EPIC"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2969,6 +4211,12 @@
 		"name": "Eclipse",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -2982,6 +4230,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -2993,6 +4247,12 @@
 		"name": "Serpent's Fang",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3006,6 +4266,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3017,6 +4283,12 @@
 		"name": "Hubris",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3030,6 +4302,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3041,6 +4319,12 @@
 		"name": "Voltaic Cyclosword",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3054,6 +4338,11 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3066,6 +4355,12 @@
 		"rank": [
 			"LEGENDARY"
 		],
+		"modes": [
+			"CLASSIC",
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3077,6 +4372,9 @@
 		"name": "Anvil Voucher",
 		"rank": [
 			"DISTRIBUTED"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": true,
 		"requiredChampion": "",
@@ -3091,6 +4389,9 @@
 			"CONSUMABLE",
 			"ANVIL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3103,6 +4404,9 @@
 		"rank": [
 			"CONSUMABLE",
 			"ANVIL"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3117,6 +4421,9 @@
 			"CONSUMABLE",
 			"ANVIL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3129,6 +4436,9 @@
 		"rank": [
 			"CONSUMABLE",
 			"ANVIL"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3143,6 +4453,9 @@
 			"CONSUMABLE",
 			"ANVIL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3155,6 +4468,9 @@
 		"rank": [
 			"CONSUMABLE",
 			"ANVIL"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3169,6 +4485,9 @@
 			"CONSUMABLE",
 			"ANVIL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3181,6 +4500,9 @@
 		"rank": [
 			"CONSUMABLE",
 			"ANVIL"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3195,6 +4517,9 @@
 			"BOOTS",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3206,6 +4531,10 @@
 		"name": "Atma's Reckoning",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3220,6 +4549,10 @@
 			"DISTRIBUTED",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3231,6 +4564,9 @@
 		"name": "Zephyr",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3244,6 +4580,9 @@
 		"rank": [
 			"STARTER"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3255,6 +4594,11 @@
 		"name": "Spectral Cutlass",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"ARAM",
+			"NEXUS_BLITZ",
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3268,6 +4612,10 @@
 		"rank": [
 			"DISTRIBUTED",
 			"SPECIAL"
+		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3283,6 +4631,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3296,6 +4647,9 @@
 			"DISTRIBUTED",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3307,6 +4661,9 @@
 		"name": "Anathema's Chains",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3321,6 +4678,10 @@
 			"DISTRIBUTED",
 			"SPECIAL"
 		],
+		"modes": [
+			"ARENA",
+			"ARAM_MAYHEM"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3332,6 +4693,9 @@
 		"name": "Multitool",
 		"rank": [
 			"LEGENDARY"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3347,6 +4711,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3360,6 +4727,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3375,6 +4745,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3388,6 +4761,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3403,6 +4779,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3416,6 +4795,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3431,6 +4813,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3444,6 +4829,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3459,6 +4847,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3472,6 +4863,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3487,6 +4881,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3500,6 +4897,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3515,6 +4915,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3528,6 +4931,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3543,6 +4949,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3556,6 +4965,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3571,6 +4983,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3584,6 +4999,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3599,6 +5017,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3612,6 +5033,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3627,6 +5051,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3640,6 +5067,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3655,6 +5085,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3668,6 +5101,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3683,6 +5119,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3696,6 +5135,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3711,6 +5153,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3724,6 +5169,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3739,6 +5187,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3752,6 +5203,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3767,6 +5221,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3780,6 +5237,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3795,6 +5255,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3808,6 +5271,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3823,6 +5289,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3836,6 +5305,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3851,6 +5323,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3864,6 +5339,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3879,6 +5357,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3892,6 +5373,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3907,6 +5391,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3920,6 +5407,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3935,6 +5425,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3948,6 +5441,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3963,6 +5459,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -3976,6 +5475,9 @@
 			"DISTRIBUTED",
 			"SPECIAL",
 			"PRISMATIC"
+		],
+		"modes": [
+			"ARENA"
 		],
 		"removed": false,
 		"requiredChampion": "",
@@ -3991,6 +5493,9 @@
 			"SPECIAL",
 			"PRISMATIC"
 		],
+		"modes": [
+			"ARENA"
+		],
 		"removed": false,
 		"requiredChampion": "",
 		"shop": {
@@ -4002,6 +5507,9 @@
 		"name": "Fortification (ARAM)",
 		"rank": [
 			"TURRET"
+		],
+		"modes": [
+			"ARAM"
 		],
 		"removed": true,
 		"requiredChampion": "",

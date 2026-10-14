@@ -5,7 +5,7 @@
 Same shape as `cdn.merakianalytics.com/riot/lol/resources/latest/en-US/{champions,items}.json`, restricted to the fields Nexus reads:
 
 - `champions.json`: `id`, `key`, `name`, `releaseDate`, `faction`, `positions`, `roles`, `resource`, `attackType`, `adaptiveType`, `stats.{health,attackDamage,armor,magicResistance,movespeed,attackRange}.flat`.
-- `items.json`: `id`, `name`, `rank`, `removed`, `requiredChampion`, `shop.purchasable`.
+- `items.json`: `id`, `name`, `rank`, `removed`, `requiredChampion`, `shop.purchasable`, and `modes` (not in Meraki): `CLASSIC`, `ARAM`, `NEXUS_BLITZ`, `ARENA`, `ARAM_MAYHEM`, a new mode upper-cased as the wiki names it.
 
 ## Sources
 
