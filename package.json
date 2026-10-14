@@ -1,0 +1,11 @@
+{
+	"name": "meraki",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"generate": "node generate.js"
+	},
+	"engines": {
+		"node": ">=24"
+	}
+}

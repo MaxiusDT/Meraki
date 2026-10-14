@@ -1,0 +1,6593 @@
+{
+	"Aatrox": {
+		"id": 266,
+		"key": "Aatrox",
+		"name": "Aatrox",
+		"releaseDate": "2013-06-13",
+		"faction": "unaffiliated",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "BLOOD_WELL",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 38
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Ahri": {
+		"id": 103,
+		"key": "Ahri",
+		"name": "Ahri",
+		"releaseDate": "2011-12-14",
+		"faction": "ionia",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 53
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Akali": {
+		"id": 84,
+		"key": "Akali",
+		"name": "Akali",
+		"releaseDate": "2010-05-11",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN"
+		],
+		"resource": "ENERGY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 37
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Akshan": {
+		"id": 166,
+		"key": "Akshan",
+		"name": "Akshan",
+		"releaseDate": "2021-07-22",
+		"faction": "shurima",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Alistar": {
+		"id": 12,
+		"key": "Alistar",
+		"name": "Alistar",
+		"releaseDate": "2009-02-21",
+		"faction": "unaffiliated",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 685
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 40
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Ambessa": {
+		"id": 799,
+		"key": "Ambessa",
+		"name": "Ambessa",
+		"releaseDate": "2024-11-06",
+		"faction": "noxus",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "ENERGY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Amumu": {
+		"id": 32,
+		"key": "Amumu",
+		"name": "Amumu",
+		"releaseDate": "2009-06-26",
+		"faction": "shurima",
+		"positions": [
+			"JUNGLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 685
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Anivia": {
+		"id": 34,
+		"key": "Anivia",
+		"name": "Anivia",
+		"releaseDate": "2009-07-10",
+		"faction": "freljord",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 550
+			},
+			"attackDamage": {
+				"flat": 51
+			},
+			"armor": {
+				"flat": 19
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 600
+			}
+		}
+	},
+	"Annie": {
+		"id": 1,
+		"key": "Annie",
+		"name": "Annie",
+		"releaseDate": "2009-02-21",
+		"faction": "unaffiliated",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 560
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 625
+			}
+		}
+	},
+	"Aphelios": {
+		"id": 523,
+		"key": "Aphelios",
+		"name": "Aphelios",
+		"releaseDate": "2019-12-11",
+		"faction": "mount-targon",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Ashe": {
+		"id": 22,
+		"key": "Ashe",
+		"name": "Ashe",
+		"releaseDate": "2009-02-21",
+		"faction": "freljord",
+		"positions": [
+			"BOTTOM",
+			"SUPPORT"
+		],
+		"roles": [
+			"MARKSMAN",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 600
+			}
+		}
+	},
+	"AurelionSol": {
+		"id": 136,
+		"key": "AurelionSol",
+		"name": "Aurelion Sol",
+		"releaseDate": "2016-03-24",
+		"faction": "unaffiliated",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Aurora": {
+		"id": 893,
+		"key": "Aurora",
+		"name": "Aurora",
+		"releaseDate": "2024-07-17",
+		"faction": "freljord",
+		"positions": [
+			"MIDDLE",
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 607
+			},
+			"attackDamage": {
+				"flat": 53
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Azir": {
+		"id": 268,
+		"key": "Azir",
+		"name": "Azir",
+		"releaseDate": "2014-09-16",
+		"faction": "shurima",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 575
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Bard": {
+		"id": 432,
+		"key": "Bard",
+		"name": "Bard",
+		"releaseDate": "2015-03-12",
+		"faction": "unaffiliated",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"CATCHER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Belveth": {
+		"id": 200,
+		"key": "Belveth",
+		"name": "Bel'Veth",
+		"releaseDate": "2022-06-09",
+		"faction": "void",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "NONE",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Blitzcrank": {
+		"id": 53,
+		"key": "Blitzcrank",
+		"name": "Blitzcrank",
+		"releaseDate": "2009-09-02",
+		"faction": "zaun",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"CATCHER",
+			"SUPPORT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Brand": {
+		"id": 63,
+		"key": "Brand",
+		"name": "Brand",
+		"releaseDate": "2011-04-12",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE",
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"BURST",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 570
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Braum": {
+		"id": 201,
+		"key": "Braum",
+		"name": "Braum",
+		"releaseDate": "2014-05-12",
+		"faction": "freljord",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Briar": {
+		"id": 233,
+		"key": "Briar",
+		"name": "Briar",
+		"releaseDate": "2023-09-14",
+		"faction": "noxus",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "FRENZY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Caitlyn": {
+		"id": 51,
+		"key": "Caitlyn",
+		"name": "Caitlyn",
+		"releaseDate": "2011-01-04",
+		"faction": "piltover",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 650
+			}
+		}
+	},
+	"Camille": {
+		"id": 164,
+		"key": "Camille",
+		"name": "Camille",
+		"releaseDate": "2016-12-07",
+		"faction": "piltover",
+		"positions": [
+			"TOP",
+			"SUPPORT"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Cassiopeia": {
+		"id": 69,
+		"key": "Cassiopeia",
+		"name": "Cassiopeia",
+		"releaseDate": "2010-12-14",
+		"faction": "noxus",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 53
+			},
+			"armor": {
+				"flat": 18
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Chogath": {
+		"id": 31,
+		"key": "Chogath",
+		"name": "Cho'Gath",
+		"releaseDate": "2009-06-26",
+		"faction": "void",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"MAGE",
+			"SPECIALIST",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 644
+			},
+			"attackDamage": {
+				"flat": 69
+			},
+			"armor": {
+				"flat": 38
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Corki": {
+		"id": 42,
+		"key": "Corki",
+		"name": "Corki",
+		"releaseDate": "2009-09-19",
+		"faction": "bandle-city",
+		"positions": [
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Darius": {
+		"id": 122,
+		"key": "Darius",
+		"name": "Darius",
+		"releaseDate": "2012-05-23",
+		"faction": "noxus",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 652
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Diana": {
+		"id": 131,
+		"key": "Diana",
+		"name": "Diana",
+		"releaseDate": "2012-08-07",
+		"faction": "mount-targon",
+		"positions": [
+			"JUNGLE",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 31
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"DrMundo": {
+		"id": 36,
+		"key": "DrMundo",
+		"name": "Dr. Mundo",
+		"releaseDate": "2009-09-02",
+		"faction": "zaun",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "HEALTH",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 29
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Draven": {
+		"id": 119,
+		"key": "Draven",
+		"name": "Draven",
+		"releaseDate": "2012-06-06",
+		"faction": "noxus",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 675
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Ekko": {
+		"id": 245,
+		"key": "Ekko",
+		"name": "Ekko",
+		"releaseDate": "2015-05-29",
+		"faction": "zaun",
+		"positions": [
+			"JUNGLE",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Elise": {
+		"id": 60,
+		"key": "Elise",
+		"name": "Elise",
+		"releaseDate": "2012-10-26",
+		"faction": "shadow-isles",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Evelynn": {
+		"id": 28,
+		"key": "Evelynn",
+		"name": "Evelynn",
+		"releaseDate": "2009-05-01",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 642
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Ezreal": {
+		"id": 81,
+		"key": "Ezreal",
+		"name": "Ezreal",
+		"releaseDate": "2010-03-16",
+		"faction": "piltover",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Fiddlesticks": {
+		"id": 9,
+		"key": "Fiddlesticks",
+		"name": "Fiddlesticks",
+		"releaseDate": "2009-02-21",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"MAGE",
+			"SPECIALIST",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 480
+			}
+		}
+	},
+	"Fiora": {
+		"id": 114,
+		"key": "Fiora",
+		"name": "Fiora",
+		"releaseDate": "2012-02-29",
+		"faction": "demacia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Fizz": {
+		"id": 105,
+		"key": "Fizz",
+		"name": "Fizz",
+		"releaseDate": "2011-11-15",
+		"faction": "unaffiliated",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Galio": {
+		"id": 3,
+		"key": "Galio",
+		"name": "Galio",
+		"releaseDate": "2010-08-10",
+		"faction": "demacia",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"MAGE",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Gangplank": {
+		"id": 41,
+		"key": "Gangplank",
+		"name": "Gangplank",
+		"releaseDate": "2009-08-19",
+		"faction": "bilgewater",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 31
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Garen": {
+		"id": 86,
+		"key": "Garen",
+		"name": "Garen",
+		"releaseDate": "2010-04-27",
+		"faction": "demacia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "NONE",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 690
+			},
+			"attackDamage": {
+				"flat": 69
+			},
+			"armor": {
+				"flat": 38
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Gnar": {
+		"id": 150,
+		"key": "Gnar",
+		"name": "Gnar",
+		"releaseDate": "2014-08-14",
+		"faction": "freljord",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"SPECIALIST",
+			"TANK"
+		],
+		"resource": "RAGE",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 540
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Gragas": {
+		"id": 79,
+		"key": "Gragas",
+		"name": "Gragas",
+		"releaseDate": "2010-02-02",
+		"faction": "freljord",
+		"positions": [
+			"TOP",
+			"JUNGLE",
+			"MIDDLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"MAGE",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 38
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Graves": {
+		"id": 104,
+		"key": "Graves",
+		"name": "Graves",
+		"releaseDate": "2011-10-19",
+		"faction": "bilgewater",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 425
+			}
+		}
+	},
+	"Gwen": {
+		"id": 887,
+		"key": "Gwen",
+		"name": "Gwen",
+		"releaseDate": "2021-04-15",
+		"faction": "shadow-isles",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 39
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Hecarim": {
+		"id": 120,
+		"key": "Hecarim",
+		"name": "Hecarim",
+		"releaseDate": "2012-04-18",
+		"faction": "shadow-isles",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Heimerdinger": {
+		"id": 74,
+		"key": "Heimerdinger",
+		"name": "Heimerdinger",
+		"releaseDate": "2009-10-10",
+		"faction": "piltover",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"MAGE",
+			"SPECIALIST",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 558
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 19
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Hwei": {
+		"id": 910,
+		"key": "Hwei",
+		"name": "Hwei",
+		"releaseDate": "2023-12-05",
+		"faction": "ionia",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Illaoi": {
+		"id": 420,
+		"key": "Illaoi",
+		"name": "Illaoi",
+		"releaseDate": "2015-11-24",
+		"faction": "bilgewater",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 656
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Irelia": {
+		"id": 39,
+		"key": "Irelia",
+		"name": "Irelia",
+		"releaseDate": "2010-11-16",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 200
+			}
+		}
+	},
+	"Ivern": {
+		"id": 427,
+		"key": "Ivern",
+		"name": "Ivern",
+		"releaseDate": "2016-10-05",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"CATCHER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 475
+			}
+		}
+	},
+	"Janna": {
+		"id": 40,
+		"key": "Janna",
+		"name": "Janna",
+		"releaseDate": "2009-09-02",
+		"faction": "zaun",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 570
+			},
+			"attackDamage": {
+				"flat": 47
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"JarvanIV": {
+		"id": 59,
+		"key": "JarvanIV",
+		"name": "Jarvan IV",
+		"releaseDate": "2011-03-01",
+		"faction": "demacia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Jax": {
+		"id": 24,
+		"key": "Jax",
+		"name": "Jax",
+		"releaseDate": "2009-02-21",
+		"faction": "unaffiliated",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Jayce": {
+		"id": 126,
+		"key": "Jayce",
+		"name": "Jayce",
+		"releaseDate": "2012-07-07",
+		"faction": "piltover",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"ARTILLERY",
+			"FIGHTER",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Jhin": {
+		"id": 202,
+		"key": "Jhin",
+		"name": "Jhin",
+		"releaseDate": "2016-02-01",
+		"faction": "ionia",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"CATCHER",
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Jinx": {
+		"id": 222,
+		"key": "Jinx",
+		"name": "Jinx",
+		"releaseDate": "2013-10-10",
+		"faction": "zaun",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"KSante": {
+		"id": 897,
+		"key": "KSante",
+		"name": "K'Sante",
+		"releaseDate": "2022-11-02",
+		"faction": "shurima",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"SKIRMISHER",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Kaisa": {
+		"id": 145,
+		"key": "Kaisa",
+		"name": "Kai'Sa",
+		"releaseDate": "2018-03-07",
+		"faction": "void",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Kalista": {
+		"id": 429,
+		"key": "Kalista",
+		"name": "Kalista",
+		"releaseDate": "2014-11-20",
+		"faction": "shadow-isles",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 560
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Karma": {
+		"id": 43,
+		"key": "Karma",
+		"name": "Karma",
+		"releaseDate": "2011-02-01",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"BURST",
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 49
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Karthus": {
+		"id": 30,
+		"key": "Karthus",
+		"name": "Karthus",
+		"releaseDate": "2009-06-12",
+		"faction": "shadow-isles",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 46
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 450
+			}
+		}
+	},
+	"Kassadin": {
+		"id": 38,
+		"key": "Kassadin",
+		"name": "Kassadin",
+		"releaseDate": "2009-08-07",
+		"faction": "void",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 646
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Katarina": {
+		"id": 55,
+		"key": "Katarina",
+		"name": "Katarina",
+		"releaseDate": "2009-09-19",
+		"faction": "noxus",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE"
+		],
+		"resource": "NONE",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 672
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Kayle": {
+		"id": 10,
+		"key": "Kayle",
+		"name": "Kayle",
+		"releaseDate": "2009-02-21",
+		"faction": "demacia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 670
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 22
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Kayn": {
+		"id": 141,
+		"key": "Kayn",
+		"name": "Kayn",
+		"releaseDate": "2017-07-12",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 38
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Kennen": {
+		"id": 85,
+		"key": "Kennen",
+		"name": "Kennen",
+		"releaseDate": "2010-04-08",
+		"faction": "ionia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "ENERGY",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 48
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Khazix": {
+		"id": 121,
+		"key": "Khazix",
+		"name": "Kha'Zix",
+		"releaseDate": "2012-09-27",
+		"faction": "void",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 643
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Kindred": {
+		"id": 203,
+		"key": "Kindred",
+		"name": "Kindred",
+		"releaseDate": "2015-10-14",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 595
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Kled": {
+		"id": 240,
+		"key": "Kled",
+		"name": "Kled",
+		"releaseDate": "2016-08-10",
+		"faction": "noxus",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "COURAGE",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 410
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"KogMaw": {
+		"id": 96,
+		"key": "KogMaw",
+		"name": "Kog'Maw",
+		"releaseDate": "2010-06-24",
+		"faction": "void",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 635
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Leblanc": {
+		"id": 7,
+		"key": "Leblanc",
+		"name": "LeBlanc",
+		"releaseDate": "2010-11-02",
+		"faction": "noxus",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 598
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"LeeSin": {
+		"id": 64,
+		"key": "LeeSin",
+		"name": "Lee Sin",
+		"releaseDate": "2011-04-01",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "ENERGY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 645
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Leona": {
+		"id": 89,
+		"key": "Leona",
+		"name": "Leona",
+		"releaseDate": "2011-07-13",
+		"faction": "mount-targon",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 646
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 43
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Lillia": {
+		"id": 876,
+		"key": "Lillia",
+		"name": "Lillia",
+		"releaseDate": "2020-07-22",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"MAGE",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 605
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 325
+			}
+		}
+	},
+	"Lissandra": {
+		"id": 127,
+		"key": "Lissandra",
+		"name": "Lissandra",
+		"releaseDate": "2013-04-30",
+		"faction": "freljord",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Locke": {
+		"id": 805,
+		"key": "Locke",
+		"name": "Locke",
+		"releaseDate": "2026-06-24",
+		"faction": "demacia",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Lucian": {
+		"id": 236,
+		"key": "Lucian",
+		"name": "Lucian",
+		"releaseDate": "2013-08-22",
+		"faction": "unaffiliated",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 641
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Lulu": {
+		"id": 117,
+		"key": "Lulu",
+		"name": "Lulu",
+		"releaseDate": "2012-03-20",
+		"faction": "bandle-city",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 565
+			},
+			"attackDamage": {
+				"flat": 47
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Lux": {
+		"id": 99,
+		"key": "Lux",
+		"name": "Lux",
+		"releaseDate": "2010-10-19",
+		"faction": "demacia",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ARTILLERY",
+			"BURST",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Malphite": {
+		"id": 54,
+		"key": "Malphite",
+		"name": "Malphite",
+		"releaseDate": "2009-09-02",
+		"faction": "ixtal",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"MAGE",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 665
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 40
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Malzahar": {
+		"id": 90,
+		"key": "Malzahar",
+		"name": "Malzahar",
+		"releaseDate": "2010-06-01",
+		"faction": "void",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"BATTLEMAGE",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 18
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Maokai": {
+		"id": 57,
+		"key": "Maokai",
+		"name": "Maokai",
+		"releaseDate": "2011-02-16",
+		"faction": "shadow-isles",
+		"positions": [
+			"TOP",
+			"JUNGLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 665
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"MasterYi": {
+		"id": 11,
+		"key": "MasterYi",
+		"name": "Master Yi",
+		"releaseDate": "2009-02-21",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 355
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Mel": {
+		"id": 800,
+		"key": "Mel",
+		"name": "Mel",
+		"releaseDate": "2025-01-23",
+		"faction": "noxus",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Milio": {
+		"id": 902,
+		"key": "Milio",
+		"name": "Milio",
+		"releaseDate": "2023-03-23",
+		"faction": "ixtal",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 560
+			},
+			"attackDamage": {
+				"flat": 48
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"MissFortune": {
+		"id": 21,
+		"key": "MissFortune",
+		"name": "Miss Fortune",
+		"releaseDate": "2010-09-08",
+		"faction": "bilgewater",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Mordekaiser": {
+		"id": 82,
+		"key": "Mordekaiser",
+		"name": "Mordekaiser",
+		"releaseDate": "2010-02-24",
+		"faction": "noxus",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"MAGE"
+		],
+		"resource": "SHIELD",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 645
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Morgana": {
+		"id": 25,
+		"key": "Morgana",
+		"name": "Morgana",
+		"releaseDate": "2009-02-21",
+		"faction": "demacia",
+		"positions": [
+			"SUPPORT",
+			"MIDDLE"
+		],
+		"roles": [
+			"CATCHER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 450
+			}
+		}
+	},
+	"Naafiri": {
+		"id": 950,
+		"key": "Naafiri",
+		"name": "Naafiri",
+		"releaseDate": "2023-07-19",
+		"faction": "shurima",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Nami": {
+		"id": 267,
+		"key": "Nami",
+		"name": "Nami",
+		"releaseDate": "2012-12-07",
+		"faction": "unaffiliated",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 560
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Nasus": {
+		"id": 75,
+		"key": "Nasus",
+		"name": "Nasus",
+		"releaseDate": "2009-10-01",
+		"faction": "shurima",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 67
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Nautilus": {
+		"id": 111,
+		"key": "Nautilus",
+		"name": "Nautilus",
+		"releaseDate": "2012-02-14",
+		"faction": "bilgewater",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 646
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 39
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Neeko": {
+		"id": 518,
+		"key": "Neeko",
+		"name": "Neeko",
+		"releaseDate": "2018-12-05",
+		"faction": "ixtal",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"BURST",
+			"CATCHER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 48
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Nidalee": {
+		"id": 76,
+		"key": "Nidalee",
+		"name": "Nidalee",
+		"releaseDate": "2009-12-17",
+		"faction": "ixtal",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MAGE",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Nilah": {
+		"id": 895,
+		"key": "Nilah",
+		"name": "Nilah",
+		"releaseDate": "2022-07-13",
+		"faction": "bilgewater",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 570
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 225
+			}
+		}
+	},
+	"Nocturne": {
+		"id": 56,
+		"key": "Nocturne",
+		"name": "Nocturne",
+		"releaseDate": "2011-03-15",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Nunu": {
+		"id": 20,
+		"key": "Nunu",
+		"name": "Nunu & Willump",
+		"releaseDate": "2009-02-21",
+		"faction": "freljord",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"MAGE",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Olaf": {
+		"id": 2,
+		"key": "Olaf",
+		"name": "Olaf",
+		"releaseDate": "2010-06-09",
+		"faction": "freljord",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 645
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Orianna": {
+		"id": 61,
+		"key": "Orianna",
+		"name": "Orianna",
+		"releaseDate": "2011-06-01",
+		"faction": "piltover",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 565
+			},
+			"attackDamage": {
+				"flat": 44
+			},
+			"armor": {
+				"flat": 20
+			},
+			"magicResistance": {
+				"flat": 26
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Ornn": {
+		"id": 516,
+		"key": "Ornn",
+		"name": "Ornn",
+		"releaseDate": "2017-08-23",
+		"faction": "freljord",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 660
+			},
+			"attackDamage": {
+				"flat": 69
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Pantheon": {
+		"id": 80,
+		"key": "Pantheon",
+		"name": "Pantheon",
+		"releaseDate": "2010-02-02",
+		"faction": "mount-targon",
+		"positions": [
+			"TOP",
+			"JUNGLE",
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 40
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Poppy": {
+		"id": 78,
+		"key": "Poppy",
+		"name": "Poppy",
+		"releaseDate": "2010-01-13",
+		"faction": "demacia",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Pyke": {
+		"id": 555,
+		"key": "Pyke",
+		"name": "Pyke",
+		"releaseDate": "2018-05-31",
+		"faction": "bilgewater",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ASSASSIN",
+			"CATCHER",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 670
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Qiyana": {
+		"id": 246,
+		"key": "Qiyana",
+		"name": "Qiyana",
+		"releaseDate": "2019-06-28",
+		"faction": "ixtal",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 31
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Quinn": {
+		"id": 133,
+		"key": "Quinn",
+		"name": "Quinn",
+		"releaseDate": "2013-03-01",
+		"faction": "demacia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 565
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 28
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Rakan": {
+		"id": 497,
+		"key": "Rakan",
+		"name": "Rakan",
+		"releaseDate": "2017-04-19",
+		"faction": "ionia",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"CATCHER",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 300
+			}
+		}
+	},
+	"Rammus": {
+		"id": 33,
+		"key": "Rammus",
+		"name": "Rammus",
+		"releaseDate": "2009-07-10",
+		"faction": "shurima",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 645
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"RekSai": {
+		"id": 421,
+		"key": "RekSai",
+		"name": "Rek'Sai",
+		"releaseDate": "2014-12-11",
+		"faction": "void",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "FURY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Rell": {
+		"id": 526,
+		"key": "Rell",
+		"name": "Rell",
+		"releaseDate": "2020-12-10",
+		"faction": "noxus",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 315
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Renata": {
+		"id": 888,
+		"key": "Renata",
+		"name": "Renata Glasc",
+		"releaseDate": "2022-02-17",
+		"faction": "zaun",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 545
+			},
+			"attackDamage": {
+				"flat": 49
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Renekton": {
+		"id": 58,
+		"key": "Renekton",
+		"name": "Renekton",
+		"releaseDate": "2011-01-18",
+		"faction": "shurima",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "FURY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 660
+			},
+			"attackDamage": {
+				"flat": 69
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Rengar": {
+		"id": 107,
+		"key": "Rengar",
+		"name": "Rengar",
+		"releaseDate": "2012-08-21",
+		"faction": "ixtal",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "FEROCITY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Riven": {
+		"id": 92,
+		"key": "Riven",
+		"name": "Riven",
+		"releaseDate": "2011-09-14",
+		"faction": "noxus",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "NONE",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Rumble": {
+		"id": 68,
+		"key": "Rumble",
+		"name": "Rumble",
+		"releaseDate": "2011-04-26",
+		"faction": "bandle-city",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"FIGHTER",
+			"MAGE"
+		],
+		"resource": "HEAT",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Ryze": {
+		"id": 13,
+		"key": "Ryze",
+		"name": "Ryze",
+		"releaseDate": "2009-02-21",
+		"faction": "unaffiliated",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"FIGHTER",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Samira": {
+		"id": 360,
+		"key": "Samira",
+		"name": "Samira",
+		"releaseDate": "2020-09-21",
+		"faction": "noxus",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Sejuani": {
+		"id": 113,
+		"key": "Sejuani",
+		"name": "Sejuani",
+		"releaseDate": "2012-01-17",
+		"faction": "freljord",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Senna": {
+		"id": 235,
+		"key": "Senna",
+		"name": "Senna",
+		"releaseDate": "2019-11-10",
+		"faction": "unaffiliated",
+		"positions": [
+			"BOTTOM",
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MARKSMAN",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 530
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 600
+			}
+		}
+	},
+	"Seraphine": {
+		"id": 147,
+		"key": "Seraphine",
+		"name": "Seraphine",
+		"releaseDate": "2020-10-29",
+		"faction": "piltover",
+		"positions": [
+			"BOTTOM",
+			"SUPPORT"
+		],
+		"roles": [
+			"BURST",
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 570
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Sett": {
+		"id": 875,
+		"key": "Sett",
+		"name": "Sett",
+		"releaseDate": "2020-01-14",
+		"faction": "ionia",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "GRIT",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 670
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Shaco": {
+		"id": 35,
+		"key": "Shaco",
+		"name": "Shaco",
+		"releaseDate": "2009-10-10",
+		"faction": "unaffiliated",
+		"positions": [
+			"JUNGLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ASSASSIN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Shen": {
+		"id": 98,
+		"key": "Shen",
+		"name": "Shen",
+		"releaseDate": "2010-03-24",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"SUPPORT"
+		],
+		"roles": [
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "ENERGY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 64
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Shyvana": {
+		"id": 102,
+		"key": "Shyvana",
+		"name": "Shyvana",
+		"releaseDate": "2011-11-01",
+		"faction": "demacia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"MAGE"
+		],
+		"resource": "FURY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 625
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Singed": {
+		"id": 27,
+		"key": "Singed",
+		"name": "Singed",
+		"releaseDate": "2009-04-18",
+		"faction": "zaun",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"MAGE",
+			"SPECIALIST",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Sion": {
+		"id": 14,
+		"key": "Sion",
+		"name": "Sion",
+		"releaseDate": "2009-02-21",
+		"faction": "noxus",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Sivir": {
+		"id": 15,
+		"key": "Sivir",
+		"name": "Sivir",
+		"releaseDate": "2009-02-21",
+		"faction": "shurima",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Skarner": {
+		"id": 72,
+		"key": "Skarner",
+		"name": "Skarner",
+		"releaseDate": "2011-08-09",
+		"faction": "ixtal",
+		"positions": [
+			"JUNGLE",
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Smolder": {
+		"id": 901,
+		"key": "Smolder",
+		"name": "Smolder",
+		"releaseDate": "2024-01-31",
+		"faction": "unaffiliated",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 575
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Sona": {
+		"id": 37,
+		"key": "Sona",
+		"name": "Sona",
+		"releaseDate": "2010-09-21",
+		"faction": "demacia",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 550
+			},
+			"attackDamage": {
+				"flat": 49
+			},
+			"armor": {
+				"flat": 26
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Soraka": {
+		"id": 16,
+		"key": "Soraka",
+		"name": "Soraka",
+		"releaseDate": "2009-02-21",
+		"faction": "mount-targon",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 605
+			},
+			"attackDamage": {
+				"flat": 50
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Swain": {
+		"id": 50,
+		"key": "Swain",
+		"name": "Swain",
+		"releaseDate": "2010-10-05",
+		"faction": "noxus",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT",
+			"BOTTOM"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 595
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 34
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Sylas": {
+		"id": 517,
+		"key": "Sylas",
+		"name": "Sylas",
+		"releaseDate": "2019-01-25",
+		"faction": "demacia",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"BURST",
+			"MAGE",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Syndra": {
+		"id": 134,
+		"key": "Syndra",
+		"name": "Syndra",
+		"releaseDate": "2012-09-13",
+		"faction": "ionia",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 583
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"TahmKench": {
+		"id": 223,
+		"key": "TahmKench",
+		"name": "Tahm Kench",
+		"releaseDate": "2015-07-09",
+		"faction": "unaffiliated",
+		"positions": [
+			"TOP",
+			"SUPPORT"
+		],
+		"roles": [
+			"SUPPORT",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 39
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Taliyah": {
+		"id": 163,
+		"key": "Taliyah",
+		"name": "Taliyah",
+		"releaseDate": "2016-05-18",
+		"faction": "shurima",
+		"positions": [
+			"JUNGLE",
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 550
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 18
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Talon": {
+		"id": 91,
+		"key": "Talon",
+		"name": "Talon",
+		"releaseDate": "2011-08-24",
+		"faction": "noxus",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 658
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 36
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Taric": {
+		"id": 44,
+		"key": "Taric",
+		"name": "Taric",
+		"releaseDate": "2009-08-19",
+		"faction": "mount-targon",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"SUPPORT",
+			"TANK",
+			"WARDEN"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 645
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 40
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Teemo": {
+		"id": 17,
+		"key": "Teemo",
+		"name": "Teemo",
+		"releaseDate": "2009-02-21",
+		"faction": "bandle-city",
+		"positions": [
+			"TOP",
+			"JUNGLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"MAGE",
+			"MARKSMAN",
+			"SPECIALIST"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 615
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 500
+			}
+		}
+	},
+	"Thresh": {
+		"id": 412,
+		"key": "Thresh",
+		"name": "Thresh",
+		"releaseDate": "2013-01-23",
+		"faction": "shadow-isles",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"CATCHER",
+			"SUPPORT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 450
+			}
+		}
+	},
+	"Tristana": {
+		"id": 18,
+		"key": "Tristana",
+		"name": "Tristana",
+		"releaseDate": "2009-02-21",
+		"faction": "bandle-city",
+		"positions": [
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Trundle": {
+		"id": 48,
+		"key": "Trundle",
+		"name": "Trundle",
+		"releaseDate": "2010-12-01",
+		"faction": "freljord",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 68
+			},
+			"armor": {
+				"flat": 37
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Tryndamere": {
+		"id": 23,
+		"key": "Tryndamere",
+		"name": "Tryndamere",
+		"releaseDate": "2009-05-01",
+		"faction": "freljord",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "FURY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 696
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"TwistedFate": {
+		"id": 4,
+		"key": "TwistedFate",
+		"name": "Twisted Fate",
+		"releaseDate": "2009-02-21",
+		"faction": "bilgewater",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"BURST",
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 604
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Twitch": {
+		"id": 29,
+		"key": "Twitch",
+		"name": "Twitch",
+		"releaseDate": "2009-05-01",
+		"faction": "zaun",
+		"positions": [
+			"BOTTOM",
+			"SUPPORT"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 27
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Udyr": {
+		"id": 77,
+		"key": "Udyr",
+		"name": "Udyr",
+		"releaseDate": "2009-12-02",
+		"faction": "freljord",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 664
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 31
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 350
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Urgot": {
+		"id": 6,
+		"key": "Urgot",
+		"name": "Urgot",
+		"releaseDate": "2010-08-24",
+		"faction": "zaun",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 350
+			}
+		}
+	},
+	"Varus": {
+		"id": 110,
+		"key": "Varus",
+		"name": "Varus",
+		"releaseDate": "2012-05-08",
+		"faction": "ionia",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 59
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 575
+			}
+		}
+	},
+	"Vayne": {
+		"id": 67,
+		"key": "Vayne",
+		"name": "Vayne",
+		"releaseDate": "2011-05-10",
+		"faction": "demacia",
+		"positions": [
+			"TOP",
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Veigar": {
+		"id": 45,
+		"key": "Veigar",
+		"name": "Veigar",
+		"releaseDate": "2009-07-24",
+		"faction": "bandle-city",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 580
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 18
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Velkoz": {
+		"id": 161,
+		"key": "Velkoz",
+		"name": "Vel'Koz",
+		"releaseDate": "2014-02-27",
+		"faction": "void",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Vex": {
+		"id": 711,
+		"key": "Vex",
+		"name": "Vex",
+		"releaseDate": "2021-09-23",
+		"faction": "shadow-isles",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 54
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Vi": {
+		"id": 254,
+		"key": "Vi",
+		"name": "Vi",
+		"releaseDate": "2012-12-19",
+		"faction": "piltover",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"DIVER",
+			"FIGHTER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 655
+			},
+			"attackDamage": {
+				"flat": 61
+			},
+			"armor": {
+				"flat": 30
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Viego": {
+		"id": 234,
+		"key": "Viego",
+		"name": "Viego",
+		"releaseDate": "2021-01-21",
+		"faction": "shadow-isles",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "NONE",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 57
+			},
+			"armor": {
+				"flat": 34
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 200
+			}
+		}
+	},
+	"Viktor": {
+		"id": 112,
+		"key": "Viktor",
+		"name": "Viktor",
+		"releaseDate": "2011-12-29",
+		"faction": "zaun",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 53
+			},
+			"armor": {
+				"flat": 23
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Vladimir": {
+		"id": 8,
+		"key": "Vladimir",
+		"name": "Vladimir",
+		"releaseDate": "2010-07-27",
+		"faction": "noxus",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"BATTLEMAGE",
+			"FIGHTER",
+			"MAGE"
+		],
+		"resource": "CRIMSON_RUSH",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 450
+			}
+		}
+	},
+	"Volibear": {
+		"id": 106,
+		"key": "Volibear",
+		"name": "Volibear",
+		"releaseDate": "2011-11-29",
+		"faction": "freljord",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 150
+			}
+		}
+	},
+	"Warwick": {
+		"id": 19,
+		"key": "Warwick",
+		"name": "Warwick",
+		"releaseDate": "2009-02-21",
+		"faction": "zaun",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 65
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"MonkeyKing": {
+		"id": 62,
+		"key": "MonkeyKing",
+		"name": "Wukong",
+		"releaseDate": "2011-07-26",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 610
+			},
+			"attackDamage": {
+				"flat": 66
+			},
+			"armor": {
+				"flat": 31
+			},
+			"magicResistance": {
+				"flat": 28
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Xayah": {
+		"id": 498,
+		"key": "Xayah",
+		"name": "Xayah",
+		"releaseDate": "2017-04-19",
+		"faction": "ionia",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"Xerath": {
+		"id": 101,
+		"key": "Xerath",
+		"name": "Xerath",
+		"releaseDate": "2011-10-05",
+		"faction": "shurima",
+		"positions": [
+			"MIDDLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 575
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 22
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 525
+			}
+		}
+	},
+	"XinZhao": {
+		"id": 5,
+		"key": "XinZhao",
+		"name": "Xin Zhao",
+		"releaseDate": "2010-07-13",
+		"faction": "demacia",
+		"positions": [
+			"JUNGLE"
+		],
+		"roles": [
+			"DIVER",
+			"FIGHTER",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 35
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Yasuo": {
+		"id": 157,
+		"key": "Yasuo",
+		"name": "Yasuo",
+		"releaseDate": "2013-12-13",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "FLOW",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Yone": {
+		"id": 777,
+		"key": "Yone",
+		"name": "Yone",
+		"releaseDate": "2020-08-06",
+		"faction": "ionia",
+		"positions": [
+			"TOP",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "FLOW",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 620
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Yorick": {
+		"id": 83,
+		"key": "Yorick",
+		"name": "Yorick",
+		"releaseDate": "2011-06-22",
+		"faction": "shadow-isles",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"FIGHTER",
+			"JUGGERNAUT",
+			"TANK"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 650
+			},
+			"attackDamage": {
+				"flat": 62
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Yunara": {
+		"id": 804,
+		"key": "Yunara",
+		"name": "Yunara",
+		"releaseDate": "2025-07-16",
+		"faction": "ionia",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 590
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 575
+			}
+		}
+	},
+	"Yuumi": {
+		"id": 350,
+		"key": "Yuumi",
+		"name": "Yuumi",
+		"releaseDate": "2019-05-14",
+		"faction": "bandle-city",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"ENCHANTER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 500
+			},
+			"attackDamage": {
+				"flat": 49
+			},
+			"armor": {
+				"flat": 25
+			},
+			"magicResistance": {
+				"flat": 25
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 425
+			}
+		}
+	},
+	"Zaahen": {
+		"id": 904,
+		"key": "Zaahen",
+		"name": "Zaahen",
+		"releaseDate": "2025-11-19",
+		"faction": "unaffiliated",
+		"positions": [
+			"TOP"
+		],
+		"roles": [
+			"ASSASSIN",
+			"FIGHTER",
+			"SKIRMISHER"
+		],
+		"resource": "MANA",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 640
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 36
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Zac": {
+		"id": 154,
+		"key": "Zac",
+		"name": "Zac",
+		"releaseDate": "2013-03-29",
+		"faction": "zaun",
+		"positions": [
+			"TOP",
+			"JUNGLE",
+			"SUPPORT"
+		],
+		"roles": [
+			"FIGHTER",
+			"TANK",
+			"VANGUARD"
+		],
+		"resource": "HEALTH",
+		"attackType": "MELEE",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 685
+			},
+			"attackDamage": {
+				"flat": 60
+			},
+			"armor": {
+				"flat": 33
+			},
+			"magicResistance": {
+				"flat": 32
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 175
+			}
+		}
+	},
+	"Zed": {
+		"id": 238,
+		"key": "Zed",
+		"name": "Zed",
+		"releaseDate": "2012-11-13",
+		"faction": "ionia",
+		"positions": [
+			"JUNGLE",
+			"MIDDLE"
+		],
+		"roles": [
+			"ASSASSIN"
+		],
+		"resource": "ENERGY",
+		"attackType": "MELEE",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 654
+			},
+			"attackDamage": {
+				"flat": 63
+			},
+			"armor": {
+				"flat": 32
+			},
+			"magicResistance": {
+				"flat": 29
+			},
+			"movespeed": {
+				"flat": 345
+			},
+			"attackRange": {
+				"flat": 125
+			}
+		}
+	},
+	"Zeri": {
+		"id": 221,
+		"key": "Zeri",
+		"name": "Zeri",
+		"releaseDate": "2022-01-20",
+		"faction": "zaun",
+		"positions": [
+			"BOTTOM"
+		],
+		"roles": [
+			"MARKSMAN"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "PHYSICAL_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 600
+			},
+			"attackDamage": {
+				"flat": 56
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 33
+			},
+			"movespeed": {
+				"flat": 330
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Ziggs": {
+		"id": 115,
+		"key": "Ziggs",
+		"name": "Ziggs",
+		"releaseDate": "2012-02-01",
+		"faction": "zaun",
+		"positions": [
+			"MIDDLE",
+			"BOTTOM"
+		],
+		"roles": [
+			"ARTILLERY",
+			"MAGE"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 606
+			},
+			"attackDamage": {
+				"flat": 55
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 325
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Zilean": {
+		"id": 26,
+		"key": "Zilean",
+		"name": "Zilean",
+		"releaseDate": "2009-04-18",
+		"faction": "unaffiliated",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"MAGE",
+			"SPECIALIST",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 574
+			},
+			"attackDamage": {
+				"flat": 52
+			},
+			"armor": {
+				"flat": 24
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 335
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Zoe": {
+		"id": 142,
+		"key": "Zoe",
+		"name": "Zoe",
+		"releaseDate": "2017-11-21",
+		"faction": "mount-targon",
+		"positions": [
+			"MIDDLE"
+		],
+		"roles": [
+			"BURST",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 630
+			},
+			"attackDamage": {
+				"flat": 58
+			},
+			"armor": {
+				"flat": 21
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 550
+			}
+		}
+	},
+	"Zyra": {
+		"id": 143,
+		"key": "Zyra",
+		"name": "Zyra",
+		"releaseDate": "2012-07-24",
+		"faction": "ixtal",
+		"positions": [
+			"SUPPORT"
+		],
+		"roles": [
+			"CATCHER",
+			"MAGE",
+			"SUPPORT"
+		],
+		"resource": "MANA",
+		"attackType": "RANGED",
+		"adaptiveType": "MAGIC_DAMAGE",
+		"stats": {
+			"health": {
+				"flat": 574
+			},
+			"attackDamage": {
+				"flat": 53
+			},
+			"armor": {
+				"flat": 29
+			},
+			"magicResistance": {
+				"flat": 30
+			},
+			"movespeed": {
+				"flat": 340
+			},
+			"attackRange": {
+				"flat": 575
+			}
+		}
+	}
+}
