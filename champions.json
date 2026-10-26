@@ -2072,7 +2072,7 @@
 		"adaptiveType": "PHYSICAL_DAMAGE",
 		"stats": {
 			"health": {
-				"flat": 630
+				"flat": 610
 			},
 			"attackDamage": {
 				"flat": 59
@@ -5820,7 +5820,7 @@
 				"flat": 30
 			},
 			"movespeed": {
-				"flat": 335
+				"flat": 330
 			},
 			"attackRange": {
 				"flat": 525
