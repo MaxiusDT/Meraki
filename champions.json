@@ -3132,10 +3132,10 @@
 		"adaptiveType": "MAGIC_DAMAGE",
 		"stats": {
 			"health": {
-				"flat": 630
+				"flat": 590
 			},
 			"attackDamage": {
-				"flat": 54
+				"flat": 52
 			},
 			"armor": {
 				"flat": 21
@@ -5238,7 +5238,7 @@
 				"flat": 620
 			},
 			"attackDamage": {
-				"flat": 56
+				"flat": 54
 			},
 			"armor": {
 				"flat": 33
